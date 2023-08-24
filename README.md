@@ -9,6 +9,12 @@ Experienced CloudOps / DevOps Engineer with a strong background in System Admini
 - Secure Deployment
 - System Administration
 
+🏆 **Certifications:**
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
+- Oracle Cloud Infrastructure Foundations Architect
+- Multicloud Architect Associate
+
 🚀 **Highlights:**
 - 6+ years of Tech Education experience in Africa and beyond
 - Empowering diverse groups through modern technology and collaborative tools
