@@ -16,7 +16,7 @@ Experienced CloudOps / DevOps Engineer with a strong background in System Admini
 
 Let's connect and collaborate to drive innovation in the tech world!
 
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/sirlawdin?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/salaudeenjnr?style=social)
 
-📬 Contact: [your@email.com](mailto:your@email.com)
+📬 Contact: [salaudeen.abdulrasaq2008@gmail.com](mailto:salaudeen.abdulrasaq2008@gmail.com)
